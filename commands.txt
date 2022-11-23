@@ -1,0 +1,7 @@
+1. install type script "npm install --g typescript"
+2. For manage package.json used command "npm init -y"
+3. For install tsconfig.json "tsc.cmd --init"
+4. then run "npx tsc --init"
+5. make app.js
+6. Run tsc app.js
+7. Run file node app.js
